@@ -13,7 +13,7 @@
     <java.version>1.8</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <rocketmq.client.version>4.6.1</rocketmq.client.version>
-    <spring.boot.version>2.1.6.RELEASE</spring.boot.version>
+    <spring.boot.version>2.5.12</spring.boot.version>
     <lombok.version>1.18.8</lombok.version>
   </properties>
 
